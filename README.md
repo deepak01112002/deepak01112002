@@ -10,7 +10,7 @@
 -<h2> 👯 I’m looking to collaborate on HTML & React project</h2>
 - <h2>💬 Ask me about HEML,CSS,Javascript & React</h2>
 -<h2> 📫 How to reach me: </h2>
-     Connect me on linkedin : <a href="www.linkedin.com/in/deepak-pandey-0511a3250"></a>
+     Connect me on linkedin :[Linkedin]("www.linkedin.com/in/deepak-pandey-0511a3250")
 -<h2> ⚡ Fun fact: ..</h2>
          <ul>
             <li>Over 6,000 new computer viruses are created and released every month.</li>
