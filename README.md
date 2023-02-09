@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some cool projects
+ <h2>🔭 I’m currently working on some cool projects</h2>
 - 🌱 I’m currently learning Full stack Web Development
 - 👯 I’m looking to collaborate on HTML & React project
 - 💬 Ask me about HEML,CSS,Javascript & React
