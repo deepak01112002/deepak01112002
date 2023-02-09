@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**deepak01112002/deepak01112002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **deepak01112002/deepak01112002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<!-- Here are some ideas to get you started: -->
 
  <h2>🔭 I’m currently working on some cool projects</h2>
 - 🌱 I’m currently learning Full stack Web Development
