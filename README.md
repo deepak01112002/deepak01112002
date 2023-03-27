@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react,API,HTML,CSS**
 
-- 📫 How to reach me **deepak8574757609@gmail.com**
+- 📫 How to reach me **deepak8574757609@gmail**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/105bNk68nJhacaD0KU9Um6QQEX2NCq3OS/view?usp=sharing](https://drive.google.com/file/d/105bNk68nJhacaD0KU9Um6QQEX2NCq3OS/view?usp=sharing)
 
