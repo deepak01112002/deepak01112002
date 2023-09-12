@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepak01112002" alt="deepak01112002" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **react,API,HTML,CSS**
-
 - 📫 How to reach me **deepak8574757609@gmail**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/105bNk68nJhacaD0KU9Um6QQEX2NCq3OS/view?usp=sharing](https://drive.google.com/file/d/105bNk68nJhacaD0KU9Um6QQEX2NCq3OS/view?usp=sharing)
