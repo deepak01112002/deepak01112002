@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working as Full Stack Web Developer<br>👯 I’m looking to collaborate on any MERN stack project<br>- 📫 How to reach me **deepak8574757609@gmail**
+🔭 I’m currently working on something Cool.<br>👯 I’m looking to collaborate on any MERN stack project<br>- 📫 How to reach me **deepak8574757609@gmail**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/105bNk68nJhacaD0KU9Um6QQEX2NCq3OS/view?usp=sharing](https://drive.google.com/file/d/105bNk68nJhacaD0KU9Um6QQEX2NCq3OS/view?usp=sharing)
 
