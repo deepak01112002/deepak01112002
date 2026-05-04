@@ -1,33 +1,145 @@
-<h1 align="center">Hi 👋, I'm Deepak Pandey</h1>
-<h3 align="center">A passionate Full-Stack Web Developer</h3>
+<!-- ======================= BANNER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Deepak%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-# 💫 About Me:
-🔭 I’m currently working on something Cool.<br>👯 I’m looking to collaborate on any MERN stack project<br>- 📫 How to reach me **deepak8574757609@gmail**
+<!-- ======================= MAIN TYPING ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+(MERN);Backend+Engineer+%7C+System+Design;Building+Scalable+Applications;Exploring+AI+%26+Microservices"/>
+</p>
 
-- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1wOr586zKqcLWlhnkxmWsVbDkBfjY_dQP/view" target="_blank">Resume</a>
+<!-- ======================= JAVA BACKEND ANIMATION ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;REST+APIs+%7C+Scalable+Architecture;Solving+Real+World+Problems"/>
+</p>
 
-- ⚡ Fun fact **I think I Love Coading**
--   <a href="https://deepak01112002.github.io" target="blank">Portfolio</a>
+---
 
+<h3 align="center">🚀 Backend Engineer | MERN + Java | System Design Focused</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009664786367) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deepak__pandey007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak-pandey-0511a3250) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=deepak01112002&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepak01112002&theme=solarized-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak01112002&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🧠 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- 💼 Backend Developer building **enterprise-grade scalable systems**
+- ☕ Currently learning & building with **Java + Spring Boot + Microservices**
+- ⚙️ Strong in **Node.js, NestJS, API Design & System Architecture**
+- 🧩 Solving **real-world problems with optimized backend systems**
+- 📚 Practicing **System Design & High-Level Architecture**
+- 🤖 Exploring **AI integrations in backend systems**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deepak01112002&limit=5&theme=alduin&combine_all_yearly_contributions=true)
+📫 **Email:** deepak8574757609@gmail.com  
+🌐 **Portfolio:** https://deepak01112002.github.io  
+📄 **Resume:** https://drive.google.com/file/d/1wOr586zKqcLWlhnkxmWsVbDkBfjY_dQP/view  
 
-----
+---
 
-[![](https://visitcount.itsvg.in/api?id=deepak01112002&icon=3&color=7)](https://visitcount.itsvg.in)
+## 🛠️ Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+
+### ☁️ DevOps & Microservices
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![Microservices](https://img.shields.io/badge/Microservices-000?style=for-the-badge)
+
+### 🤖 AI
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000?style=for-the-badge)
+
+---
+
+## 🚀 Highlight Projects
+
+### 💰 QMoney (Stock Portfolio Analyzer)
+- Portfolio tracking & stock analysis  
+- REST APIs + backend architecture  
+- Focus on **performance & data handling**
+
+---
+
+### 🛒 E-commerce Backend System
+- Orders, payments, logistics system  
+- Razorpay + JWT + shipping APIs  
+- Scalable backend design  
+
+---
+
+### 🧾 ERP System
+- Double-entry accounting  
+- GST engine + manufacturing workflows  
+- Real-time financial reports  
+
+---
+
+## 🧠 System Design Focus
+
+- Designing **scalable backend architectures**
+- Understanding **load balancing, caching, DB optimization**
+- Working with **microservices & distributed systems**
+- Writing **clean, maintainable, production-level code**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak01112002&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak01112002&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak01112002&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak01112002&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/deepak-pandey-0511a3250"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.instagram.com/deepak__pandey007/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.facebook.com/profile.php?id=100009664786367"><img src="https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook"></a>
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+> "I focus on building scalable systems, not just features."
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=footer"/>
+</p>
